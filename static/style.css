@@ -10,6 +10,7 @@ body{
   display: flex;
   line-height: 18px;
   margin-bottom: 10px;
+  background-color: dodgerblue;
 }
 
 .name {
